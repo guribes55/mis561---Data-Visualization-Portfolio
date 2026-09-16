@@ -1,2 +1,3 @@
 # mis561---Data-Visualization-Portfolio
 Portfolio of projects from my Data Visualization Course, this will include the completion of assignments across Excel, Tableau, PowerBI through DataCamp, Adobe Express, and various AI tools.
+Initial E-commerce Profitability Analysis, Developed an initial set of dashboards detailing profitability and explained design choices,(https://public.tableau.com/views/MIS561GabrielUribesInitialE-CommerceProfitabilityAnalysis/ExplanatoryDlash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), if I did it again, I would start a few days earlier so that I could break it out into chunks over multiple sittings instead of cramming it in large blocks.
